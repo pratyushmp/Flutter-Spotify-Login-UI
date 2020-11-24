@@ -1,5 +1,6 @@
 # Flutter-Spotify-Login-UI
-Spotify Login UI created using Flutter
+## Spotify Login UI created using Flutter
+<br>
 <img src="/Screenshot.png" alt="Screenshot" width="256" height="512">
 
 
