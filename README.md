@@ -1,3 +1,3 @@
 # Flutter-Spotify-Login-UI
 Spotify Login UI created using Flutter
-![Screenshot](/Screenshot.png = 512x512)
+![Screenshot]("/Screenshot.png" width = "512" height = "512")
